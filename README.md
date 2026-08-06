@@ -7,15 +7,15 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,svelte,nest,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=reactjs,tailwind" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongo,mysql,git,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,nginx,vscode" />
 </p>
 
----
+
 
 ### Stats
 <p>
