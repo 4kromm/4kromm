@@ -12,7 +12,7 @@
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,vscode" />
 </p>
 
 
