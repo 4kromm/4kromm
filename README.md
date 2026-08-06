@@ -34,7 +34,7 @@
 <br>
 
 **Tools & Databases**  
-<img src="https://skillicons.dev/icons?i=aftereffect,mysql,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=aftereffects,mysql,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
 
 </div>
 
