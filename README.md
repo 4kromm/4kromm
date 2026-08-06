@@ -37,7 +37,8 @@
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=4kromm&show_icons=true&theme=dark&rank_icon=github&border_radius=10"/>
 
 </div>
-
+---
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID&cover_image=true&theme=novatorem"/>
 ---
 
 <div align="center">
