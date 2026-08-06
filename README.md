@@ -1,87 +1,72 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/4kromm">
-    <img src="https://cardivo.vercel.app/api?name=4kromm&description=Informatics%20Engineering%20Student&image=https://avatars.githubusercontent.com/4kromm&backgroundColor=%231a1a2e&pattern=leaf&colorPattern=%231a1a2e&fontColor=%23ffffff&hideIcons=true" />
+    <img src="https://cardivo.vercel.app/api?name=4kromm&description=Informatics%20Engineering%20Student&image=https://avatars.githubusercontent.com/4kromm&backgroundColor=%231a1a2e&pattern=leaf&colorPattern=%231a1a2e&fontColor=%23ffffff&hideIcons=true" alt="Card Header" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;Informatics+Engineering+Student" />
-</p>
+  <br><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;Informatics+Engineering+Student" alt="Typing SVG" />
+</div>
+
+---
+
+### About Me
+
+- **Field:** Informatics Engineering Student
+- **Focus:** Frontend Web Development & UI/UX Design
+- **Current Stack:** React & Tailwind CSS
+- **Goal:** Building efficient, scalable, and user-friendly web applications
 
 ---
 
 <div align="center">
 
-## About Me
+### Tech Stack
 
-Informatics Engineering Student
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,c,cpp,html,css" height="50" alt="Languages" />
 
-Frontend Web Developer
+<br>
 
-UI/UX Designer
+**Frameworks & Libraries**  
+<img src="https://skillicons.dev/icons?i=react,tailwind" height="50" alt="Frameworks" />
 
-Currently learning React & Tailwind CSS
+<br>
 
-Always building and improving projects
+**Tools & Databases**  
+<img src="https://skillicons.dev/icons?i=mysql,vscode,git,github,figma" height="50" alt="Tools" />
 
 </div>
+
+---
+
+<h3 align="center">GitHub Statistics</h3>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4kromm&theme=dark&border_radius=8" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=4kromm&show_icons=true&theme=dark&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=4kromm&theme=github-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<h3 align="center">Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://github.com/4kromm/KOINZEELL/blob/output/github-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
 <div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,c,cpp" height="55"/>
-
-<br><br>
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,tailwind" height="55"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,vscode" height="55"/>
-
+  <img src="https://komarev.com/ghpvc/?username=4kromm&style=for-the-badge&color=0e75e8" alt="Profile Views" />
+  
+  <br><br>
+  
+  <i>"Keep Building Something Better Every Day."</i>
 </div>
-
----
-
-<h2 align="center">Stats</h2>
-
-<div align="center">
-
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4kromm&theme=dark&border_radius=10"/>
-
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=4kromm&show_icons=true&theme=dark&rank_icon=github&border_radius=10"/>
-
-</div>
-
----
-
-<h2 align="center">Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4kromm&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/4kromm/KOINZEELL/blob/output/github-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4kromm&style=for-the-badge&color=blue"/>
-</p>
-
-<p align="center">
-  <i>Keep Building Something Better Every Day.</i>
-</p>
