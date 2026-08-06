@@ -7,7 +7,7 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=reactjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### Tools
