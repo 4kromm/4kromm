@@ -7,14 +7,23 @@
 ---
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=rust,go,js,ts,c,cpp" height="55" />
-  <br/><br/>
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=vue,svelte,elysia,tauri,tailwind" height="55" />
-  <br/><br/>
-  <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,linux,git,neovim,vscode" height="55" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=rust,go,js,ts,c,cpp" height="55"/>
+
+<br><br>
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=vue,svelte,elysia,tauri,tailwind" height="55"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,linux,git,neovim,vscode" height="55"/>
+
 </div>
 
 ---
@@ -22,16 +31,24 @@
 <h2 align="center">Stats</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=4kromm&theme=dark&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=4kromm&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4kromm&theme=dark&border_radius=10"/>
+
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=4kromm&show_icons=true&theme=dark&rank_icon=github&border_radius=10"/>
+
 </div>
 
 ---
 
 <div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
 </div>
