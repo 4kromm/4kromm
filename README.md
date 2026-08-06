@@ -24,7 +24,7 @@
 ### Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=js,c,cpp,html,css" height="50" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=lua,js,c,cpp,html,css" height="50" alt="Languages" />
 
 <br>
 
@@ -34,7 +34,7 @@
 <br>
 
 **Tools & Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=aftereffect,mysql,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
 
 </div>
 
