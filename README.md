@@ -42,8 +42,7 @@
 
 <div align="center">
 
-<picture>
 ![snake gif](https://github.com/4kromm/KOINZEELL/blob/output/github-snake-dark.svg)
-</picture>
+
 
 </div>
