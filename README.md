@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/4kromm">
     <img src="https://cardivo.vercel.app/api?name=4kromm&description=Informatics%20Engineering%20Student&image=https://avatars.githubusercontent.com/4kromm&backgroundColor=%231a1a2e&pattern=leaf&colorPattern=%231a1a2e&fontColor=%23ffffff&hideIcons=true" />
@@ -29,4 +28,10 @@
 
 ---
 
-![snake gif](https://github.com/akrom-code/KOINZEELL/blob/output/github-snake-dark.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4kromm/4kromm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4kromm/4kromm/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/4kromm/4kromm/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
