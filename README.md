@@ -58,7 +58,7 @@
 <h3 align="center">Contribution Snake</h3>
 
 <p align="center">
-  <img src="https://github.com/4kromm/KOINZEELL/blob/output/github-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/4kromm/4kromm/output/github-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
