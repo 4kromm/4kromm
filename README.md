@@ -5,7 +5,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;Informatics+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,7 +13,7 @@
 ### About Me
 
 - **Field:** Informatics Engineering Student
-- **Focus:** Frontend Web Development & UI/UX Design
+- **Focus:** Frontend Web Development, UI/UX Design, LUA, Editing
 - **Current Stack:** React & Tailwind CSS
 - **Goal:** Building efficient, scalable, and user-friendly web applications
 
