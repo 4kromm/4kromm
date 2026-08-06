@@ -2,7 +2,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,c,cpp" />
 </p>
 
 ### Frameworks & Libraries
