@@ -10,19 +10,19 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=rust,go,js,ts,c,cpp" height="55"/>
+<img src="https://skillicons.dev/icons?i=js,c,cpp" height="55"/>
 
 <br><br>
 
 ### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=vue,svelte,elysia,tauri,tailwind" height="55"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind" height="55"/>
 
 <br><br>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,linux,git,neovim,vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql,vscode" height="55"/>
 
 </div>
 
