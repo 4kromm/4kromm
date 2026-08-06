@@ -4,6 +4,28 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;Informatics+Engineering+Student" />
+</p>
+
+---
+
+<div align="center">
+
+## About Me
+
+Informatics Engineering Student
+
+Frontend Web Developer
+
+UI/UX Designer
+
+Currently learning React & Tailwind CSS
+
+Always building and improving projects
+
+</div>
+
 ---
 
 <div align="center">
@@ -37,13 +59,29 @@
 <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=4kromm&show_icons=true&theme=dark&rank_icon=github&border_radius=10"/>
 
 </div>
+
 ---
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID&cover_image=true&theme=novatorem"/>
+
+<h2 align="center">Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4kromm&theme=github-dark&hide_border=true"/>
+</p>
+
 ---
 
-<div align="center">
+<h2 align="center">Contribution Snake</h2>
 
-![snake gif](https://github.com/4kromm/KOINZEELL/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/4kromm/KOINZEELL/blob/output/github-snake-dark.svg" alt="Contribution Snake"/>
+</p>
 
+---
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4kromm&style=for-the-badge&color=blue"/>
+</p>
+
+<p align="center">
+  <i>Keep Building Something Better Every Day.</i>
+</p>
