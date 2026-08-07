@@ -49,11 +49,7 @@
 
 <br>
 
-<div align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=4kromm&theme=github-dark&hide_border=true" alt="Activity Graph" />
-</div>
 
----
 
 <h3 align="center">Contribution Snake</h3>
 
