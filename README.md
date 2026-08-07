@@ -37,6 +37,14 @@
 <img src="https://skillicons.dev/icons?i=aftereffects,mysql,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
 
 </div>
+---
+
+<h3 align="center">GitHub Statistics</h3>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4kromm&theme=dark&border_radius=8" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=4kromm&show_icons=true&theme=dark&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+</div>
 
 
 <br>
