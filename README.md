@@ -24,7 +24,7 @@
 ### Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=lua,js,c,cpp,html,css" height="50" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=lua,js,c,cpp,css" height="50" alt="Languages" />
 
 <br>
 
