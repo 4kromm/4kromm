@@ -8,7 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=4kromm&style=for-the-badge&color=0e75e8" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/4kromm?style=for-the-badge&color=0e75e8&labelColor=1a1a2e" alt="Followers" />
 </div>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75e8,100:1a1a2e&height=120&section=footer" alt="Footer Banner" />
+  <br>
+  <i>"mulai dari 0 github ilang"</i>
+</div>
 <br>
 
 <div align="center">
@@ -26,7 +30,7 @@
   </tr>
   <tr>
     <td>⚙️ <b>Current Stack</b></td>
-    <td>React &amp; Tailwind CSS</td>
+    <td>Astro, React, Tailwind CSS, &amp; JavaScript</td>
   </tr>
   <tr>
     <td>🚀 <b>Goal</b></td>
