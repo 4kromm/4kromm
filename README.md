@@ -1,9 +1,5 @@
 <div align="center">
-  <a href="https://github.com/4kromm">
-    <img src="https://cardivo.vercel.app/api?name=4kromm&description=Informatics%20Engineering%20Student&image=https://avatars.githubusercontent.com/4kromm&backgroundColor=%231a1a2e&pattern=leaf&colorPattern=%231a1a2e&fontColor=%23ffffff&hideIcons=true" alt="Card Header" />
-  </a>
-
-  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75e8&height=220&section=header&text=4kromm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student&descAlignY=58&descSize=20&descColor=ffffff" alt="Header Banner" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;Game+Developer" alt="Typing SVG" />
 
@@ -71,5 +67,7 @@
 <br>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75e8,100:1a1a2e&height=120&section=footer" alt="Footer Banner" />
+  <br>
   <i>"Keep Building Something Better Every Day."</i>
 </div>
