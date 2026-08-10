@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=lua,js,ts,go,php,c,cpp,css" height="50" alt="Languages" />
 <br>
 **Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="50" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,astro" height="50" alt="Frameworks" />
 <br>
 **Tools & Databases**  
 <img src="https://skillicons.dev/icons?i=aftereffects,mysql,mongodb,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
