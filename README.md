@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/followers/4kromm?style=for-the-badge&color=0e75e8&labelColor=1a1a2e" alt="Followers" />
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75e8,100:1a1a2e&height=120&section=footer" alt="Footer Banner" />
   <br>
   <i>"mulai dari 0 github ilang"</i>
 </div>
