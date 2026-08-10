@@ -15,27 +15,21 @@
 - **Field:** Informatics Engineering Student
 - **Focus:** Frontend Web Development, UI/UX Design, LUA, Editing
 - **Current Stack:** React & Tailwind CSS
-- **Goal:** Building efficient, scalable, and user-friendly web applications
+- **Goal:** Building efficient, scalable, and userfriendly web applications
 
 ---
 
 <div align="center">
 
 ### Tech Stack
-
 **Languages**  
-<img src="https://skillicons.dev/icons?i=lua,js,c,cpp,css" height="50" alt="Languages" />
-
+<img src="https://skillicons.dev/icons?i=lua,js,ts,go,php,c,cpp,css" height="50" alt="Languages" />
 <br>
-
 **Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react,tailwind" height="50" alt="Frameworks" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="50" alt="Frameworks" />
 <br>
-
 **Tools & Databases**  
-<img src="https://skillicons.dev/icons?i=aftereffects,mysql,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
-
+<img src="https://skillicons.dev/icons?i=aftereffects,mysql,mongodb,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
 </div>
 
 ---
