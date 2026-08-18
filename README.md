@@ -1,17 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75e8&height=220&section=header&text=4kromm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student&descAlignY=58&descSize=20&descColor=ffffff" alt="Header Banner" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;Game+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=4kromm&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student&descAlignY=58&descSize=20&descColor=ffffff" alt="Header Banner" />
 
-  <br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;Game+Developer" alt="Typing SVG" />
 
-  <img src="https://komarev.com/ghpvc/?username=4kromm&style=for-the-badge&color=0e75e8" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/4kromm?style=for-the-badge&color=0e75e8&labelColor=1a1a2e" alt="Followers" />
 </div>
-<div align="center">
-  <br>
-  <i>"mulai dari 0 github ilang"</i>
-</div>
+
 <br>
 
 <div align="center">
@@ -45,22 +39,32 @@
   <p><b>Languages</b></p>
   <img src="https://skillicons.dev/icons?i=lua,js,ts,go,php,c,cpp,css" height="50" alt="Languages" />
 
-  <p><b>Frameworks &amp; Libraries</b></p>
+  <p><b>Frameworks & Libraries</b></p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,tailwind" height="50" alt="Frameworks" />
 
-  <p><b>Tools &amp; Databases</b></p>
+  <p><b>Tools & Databases</b></p>
   <img src="https://skillicons.dev/icons?i=aftereffects,mysql,mongodb,robloxstudio,vscode,git,github,figma" height="50" alt="Tools" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>GitHub Statistics</h3>
-  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4kromm&theme=dark&border_radius=8" alt="Streak Stats" />
-  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=4kromm&show_icons=true&theme=dark&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=1&width=1000" alt="divider" />
 </div>
 
 <br>
+
+<div align="center">
+  <h3>GitHub Statistics</h3>
+
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=4kromm&theme=dark&border_radius=8" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=4kromm&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" alt="GitHub Stats" />
+
+  <br><br>
+
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=4kromm&theme=react-dark&hide_border=true&area=true&border_radius=8" alt="Activity Graph" />
+</div>
+
 
 <div align="center">
   <h3>Contribution Snake</h3>
@@ -70,7 +74,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75e8,100:1a1a2e&height=120&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Banner" />
   <br>
   <i>"Keep Building Something Better Every Day."</i>
 </div>
