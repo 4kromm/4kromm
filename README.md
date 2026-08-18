@@ -62,7 +62,7 @@
 
   <br><br>
 
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=4kromm&theme=react-dark&hide_border=true&area=true&border_radius=8" alt="Activity Graph" />
+ <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=4kromm&theme=react-dark&hide_border=true&area=true&border_radius=8" alt="Activity Graph" />
 </div>
 
 
